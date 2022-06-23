@@ -39,3 +39,11 @@ npm i phosphor-react
 ```
 npm i date-fns
 ```
+
+```
+npm i @vime/core @vime/react --force
+```
+
+```
+npm i react-router-dom
+```
