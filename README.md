@@ -28,3 +28,14 @@ https://api-sa-east-1.graphcms.com/v2/cl4ljcdt56mom01yrdswgf7n9/master
 ```
 npm i @apollo/client graphql
 ```
+
+* [svg2jsx](https://svg2jsx.com/)
+* [Phosphor Icons](https://phosphoricons.com/)
+
+```
+npm i phosphor-react
+```
+
+```
+npm i date-fns
+```
