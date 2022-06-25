@@ -22,10 +22,6 @@ npx tailwindcss init -p
 **mutation:** criar, alterar ou deletar dados
 
 ```
-https://api-sa-east-1.graphcms.com/v2/cl4ljcdt56mom01yrdswgf7n9/master
-```
-
-```
 npm i @apollo/client graphql
 ```
 
@@ -46,4 +42,8 @@ npm i @vime/core @vime/react --force
 
 ```
 npm i react-router-dom
+```
+
+```
+npm i classnames
 ```
