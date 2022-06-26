@@ -1,5 +1,7 @@
 <h3 align="center">Event Platform</h3>
 
+![Event Platform](https://github.com/lucasrmagalhaes/event_platform-react/blob/main/src/assets/ignite-lab-react.gif?raw=true)
+
 ```
 npm create vite@latest
 ```
