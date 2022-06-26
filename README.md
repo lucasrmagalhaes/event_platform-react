@@ -1,4 +1,4 @@
-### Event Platform
+<h3 align="center">Event Platform</h3>
 
 ```
 npm create vite@latest
@@ -46,4 +46,17 @@ npm i react-router-dom
 
 ```
 npm i classnames
+```
+
+```
+npm i @graphql-codegen/cli @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo -D
+```
+
+```
+npm run codegen
+```
+
+***GitHub CLI***
+```
+gh repo create
 ```
